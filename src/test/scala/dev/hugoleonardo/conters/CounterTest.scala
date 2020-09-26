@@ -2,7 +2,7 @@ package dev.hugoleonardo.conters
 
 import com.github.mrpowers.spark.fast.tests.DataFrameComparer
 import dev.hugoleonardo.tests.SparkSessionTestWrapper
-import org.scalatest.{BeforeAndAfter, BeforeAndAfterAll}
+import org.scalatest.BeforeAndAfterAll
 import org.scalatest.funspec.AnyFunSpec
 
 class CounterTest
